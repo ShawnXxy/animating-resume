@@ -135,7 +135,7 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `Xiangyu Xiao
+        fullMarkdown: `Xiangyu (Shawn) Xiao
 ----
 
 Web Development student/Graduate Teaching Assistant at Fort Hays State University
