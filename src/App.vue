@@ -30,7 +30,7 @@
 *
 * I am looking for a software engineer position in California.
 *
-* Following is the resume I am gonna write to use for the application.
+* In the following, I am going to write my resume for this application.
 */
 
 /* First I would like to add some animated transition effects */
@@ -43,7 +43,7 @@ html {
   color: rgb(222,222,222);
   background: rgb(0,43,54);
 }
-/* Shift text content a bit... */
+/* Shift text content a bit and create a border... */
 .styleEditor {
   padding: .5em;
   border: 1px solid;
@@ -51,7 +51,7 @@ html {
   overflow: auto;
   width: 45vw; height: 90vh;
 }
-/* I will hgihtlight the selector to increase readability */
+/* I will highlight the selector to increase readability */
 .token.selector{
     color: rgb(133,153,0);
 }
@@ -153,7 +153,7 @@ Related Projects
 
 1. [Foodies](http://www.foodiechi.com):  aims to use personalization to improve restaurant search and recommendation based on search history and favorite record.
 2. Titan: a log collection and analysis platform for web services using ElasticSearch, Logstash and Kibana (ELK)
-3. LinkItem： a project to provide better item recommendation (Books, Music Instruments, etc.) using Amazon’s dataset
+3. LinkItem：a project to provide better item recommendation (Books, Music Instruments, etc.) using Amazon’s dataset
 
 
 Links
