@@ -143,17 +143,17 @@ Web Development student/Graduate Teaching Assistant at Fort Hays State Universit
 Skills
 ----
 
-* HTML5/CSS3
-* Bootstrap/Foundation
-* Java
-* JavaScript
+* HTML5/CSS3 (Bootstrap/Foundation)
+* Java (RESTful, Servlet)
+* JavaScript (jQuery, Vue)
 
 Related Projects
 ----
 
-1. [Foodies](http://www.foodiechi.com):  aims to use personalization to improve restaurant search and recommendation based on search history and favorite record.
-2. Titan: a log collection and analysis platform for web services using ElasticSearch, Logstash and Kibana (ELK)
-3. LinkItem：a project to provide better item recommendation (Books, Music Instruments, etc.) using Amazon’s dataset
+1. [Ticket+](https://github.com/ShawnXxy/Ticket-): Java Web Service Development – Event Search and Recommendation Engine.
+2. [Foodies](http://www.foodiechi.com):  aims to use personalization to improve restaurants search and recommendation based on search history and favorite record.
+3. Titan: a log collection and analysis platform for web services using ElasticSearch, Logstash and Kibana (ELK)
+4. AIR - Amazon Item Recommendation：a project to provide better item recommendation (Books, Music Instruments, etc.) using Amazon’s dataset
 
 
 Links
