@@ -138,7 +138,8 @@ html{
         fullMarkdown: `Xiangyu (Shawn) Xiao
 ----
 
-Web Development student/Graduate Teaching Assistant at Fort Hays State University
+Web Development student/Graduate Teaching Assistant at Fort Hays State University.
+Looking For a Software Engineer position in California!
 
 Skills
 ----
