@@ -151,10 +151,11 @@ Skills
 Related Projects
 ----
 
-1. [Ticket+](https://github.com/ShawnXxy/Ticket-): Java Web Service Development – Event Search and Recommendation Engine.
-2. [Foodies](http://www.foodiechi.com):  aims to use personalization to improve restaurants search and recommendation based on search history and favorite record.
-3. Titan: a log collection and analysis platform for web services using ElasticSearch, Logstash and Kibana (ELK)
-4. AIR - Amazon Item Recommendation：a project to provide better item recommendation (Books, Music Instruments, etc.) using Amazon’s dataset
+1. [Foodies](http://www.foodiechi.com):  aims to use personalization to improve restaurants search and recommendation based on search history and favorite record.
+2. [Ticket+](https://github.com/ShawnXxy/Ticket-): Java Web Service Development – Event Search and Recommendation Engine.
+3. [Around](https://github.com/ShawnXxy/Around): LBS based Android App for Tourists and Local Residents
+4. Titan: a log collection and analysis platform for web services using ElasticSearch, Logstash and Kibana (ELK)
+5. [AIR](https://github.com/ShawnXxy/LinkItem) - Amazon Item Recommendation：a project to provide better item recommendation (Books, Music Instruments, etc.) using Amazon’s dataset
 
 
 Links
