@@ -144,9 +144,9 @@ Looking For a Software Engineer position in California!
 Skills
 ----
 
-* HTML5/CSS3 (Bootstrap/Foundation)
+* HTML/CSS (Bootstrap/Foundation)
 * Java (RESTful, Servlet)
-* JavaScript (jQuery, Vue)
+* JavaScript (jQuery)
 
 Related Projects
 ----
