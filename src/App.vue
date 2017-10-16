@@ -26,7 +26,7 @@
 * Inspired by http://strml.net/
 * 
 *
-* Hello, everyone! My name is Xiangyu Xiao, or call me Shawn.
+* Hello! My name is Xiangyu Xiao, or call me Shawn.
 *
 * I am looking for a software engineer position in California.
 *
