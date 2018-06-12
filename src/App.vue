@@ -28,7 +28,7 @@
 *
 * Hello! My name is Xiangyu Xiao, or call me Shawn.
 *
-* I am looking for a software engineer position in California.
+* I am looking for a job as a web developer or software engineer.
 *
 * In the following, I am going to write my resume for this application.
 */
