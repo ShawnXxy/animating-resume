@@ -138,8 +138,9 @@ html{
         fullMarkdown: `Xiangyu (Shawn) Xiao
 ----
 
-Web Development student/Graduate Teaching Assistant at Fort Hays State University.
-Looking For a Software Engineer position in California!
+Graduated from Fort Hays State University with a Master of Professional Studies degree,
+concentrated in Web Development.
+Looking For a job as a Web Developer or Software Engineer!
 
 Skills
 ----
@@ -147,6 +148,8 @@ Skills
 * HTML/CSS (Bootstrap/Foundation)
 * Java (RESTful, Servlet)
 * JavaScript (jQuery)
+* PHP
+* MySQL
 
 Related Projects
 ----
