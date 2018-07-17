@@ -28,9 +28,9 @@
 *
 * Hello! My name is Xiangyu Xiao, or call me Shawn.
 *
-* I am looking for a job as a web developer or software engineer.
+* I am a Tech Support Engineer working in Azure SQL Server team at Microsoft.
 *
-* In the following, I am going to write my resume for this application.
+* In the following, I am going to write a lite version of my resume.
 */
 
 /* First I would like to add some animated transition effects */
@@ -138,9 +138,9 @@ html{
         fullMarkdown: `Xiangyu (Shawn) Xiao
 ----
 
+Served as a Tech Support Engineer in Azure SQL Server team of Microsoft.
 Graduated from Fort Hays State University with a Master of Professional Studies degree,
 concentrated in Web Development.
-Looking For a job as a Web Developer or Software Engineer!
 
 Skills
 ----
