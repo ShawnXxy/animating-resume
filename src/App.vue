@@ -138,7 +138,7 @@ html{
         fullMarkdown: `Xiangyu (Shawn) Xiao
 ----
 
-Served as a Tech Support Engineer in Azure SQL Server team of Microsoft.
+Served as a Support Escalation Engineer in Azure OSS DB team of Microsoft.
 Graduated from Fort Hays State University with a Master of Professional Studies degree,
 concentrated in Web Development.
 
